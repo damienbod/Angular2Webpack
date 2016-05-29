@@ -1,0 +1,2 @@
+# Angular2Webpack
+default 
